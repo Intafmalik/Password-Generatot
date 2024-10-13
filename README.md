@@ -1,2 +1,2 @@
-# Password-Generatot
-Password cracker using python
+# Password-Cracking
+password cracking simulation using random guessing
